@@ -61,7 +61,7 @@ describe("c-schedule-vaccination", () => {
     return Promise.resolve();
   }
 
-  describe("getVaccineeDetails @wire data", () => {
+  describe("API Calls", () => {
     it("gets called with data from recordId", async () => {
       // Create initial element
       const element = createElement("c-schedule-vaccination", {
@@ -94,7 +94,7 @@ describe("c-schedule-vaccination", () => {
     });
   });
 
-  it("Handle Cancle Button", async () => {
+  it("Handle cancel Button", async () => {
     // Create initial element
     const element = createElement("c-schedule-vaccination", {
       is: ScheduleVaccination
