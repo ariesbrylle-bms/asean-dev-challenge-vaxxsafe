@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "a065j000000LqnvAAC",
+    "Name": "VS-0000005",
+    "Vaccine__c": "a015j000000Wk2LAAS",
+    "Date_of_Immunization__c": "2021-11-07",
+    "Eligible_Classification__c": "01 – Health Care Worker;02 – Senior Citizen;03 – Indigent;04 – Uniformed Personnel;05 – Essential Worker",
+    "Target_to_be_Vaccinated__c": 500,
+    "Total_of_Scheduled_Vaccinee__c": 0,
+    "Vaccination_Site__c": "a025j0000024EQiAAM",
+    "Vaccine__r": {
+      "Name": "Pfizer-BioNTech",
+      "Id": "a015j000000Wk2LAAS"
+    },
+    "Vaccination_Site__r": {
+      "Name": "Commonwealth - Barangay Hall",
+      "Id": "a025j0000024EQiAAM"
+    }
+  }
+]

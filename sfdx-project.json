@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "asean-dev",
+  "namespace": "",
+  "sfdcLoginUrl": "https://simplusphilippinesinc85-dev-ed.lightning.force.com",
+  "sourceApiVersion": "53.0"
+}
